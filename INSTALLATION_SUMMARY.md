@@ -10,7 +10,9 @@
 
 配置和设置：
 
-飞书
+飞书说明
+https://github.com/AlexAnys/feishu-moltbot-bridge 
+
 /workspaces/feishu/feishu-moltbot-bridge-main
 运行 
 FEISHU_APP_ID=cli_a9f09d8f6c38dbc2 node bridge.mjs
